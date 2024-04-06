@@ -20,9 +20,6 @@ header{
     align-items: center;
     margin-top: 10px;
     margin-block-end: 90px;
-    flex-wrap: wrap;
-    flex-grow: 1;
-    flex-shrink: 0;
 }
 ul{
     width: 400px;
